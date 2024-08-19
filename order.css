@@ -272,6 +272,7 @@ footer h3 {
 }
 
 .form {
-	width: 500px;
-	height: 900px;
+	width: 150px;
+	height: 450px;
+	align-items: center;
 }
