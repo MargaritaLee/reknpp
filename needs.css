@@ -271,3 +271,13 @@ footer h3 {
 	padding-left: 100px;
 	margin: 0;
 }
+
+.hr-sloping-lines {
+	margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #000066;
+	box-shadow: 0 20px 20px -20px #000066;
+	width: 100%;
+}
