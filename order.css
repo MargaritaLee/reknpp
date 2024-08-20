@@ -233,12 +233,11 @@ ul {
 }
 
 footer {
-	color: #000066;
+	color: ##000066;
 	padding: 30px;
 	box-shadow: inset 0px 0px 10px #191970;
 	margin-top: -5px;
 	font-size: 15px;
-	margin-top: 40px;
 }
 
 .description {
@@ -253,7 +252,7 @@ footer {
 	gap: 100px;
 	text-align: center;
 	padding-bottom: 20px;
-	font-family:'Times New Roman', sans-serif;
+	font-family:'Times New Roman', sans-serif;	
 
 }
 
@@ -263,6 +262,14 @@ hr {
 
 footer h3 {
 	padding-bottom: 20px;
+}
+
+.image {
+	float: left;
+	padding-top: 0;
+	padding-right: 50px;
+	padding-left: 100px;
+	margin: 0;
 }
 
 .form {
