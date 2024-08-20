@@ -276,11 +276,28 @@ footer h3 {
 	width: 300px;
 	height: 450px;
 	text-align: center;
-	padding-top: 20px;
+	margin-top: 20px;
+	box-shadow: 9px 8px 10px rgba(3, 29, 53, 0.68), 4px 4px 8px rgba(18, 21, 130, 0.2);
 }
 
-.button {
+button {
+	margin-top: 10px;
 	font-weight: bold;
 	color: #fff;
 	background-color: #000066;
+	border-radius: 10px;
+	width: 150px;
+	height: 30px;
+	font-size: 15px;
+}
+
+.button-text {
+	color: #fff;
+	text-decoration: none;
+	font-family:'Times New Roman', sans-serif;	
+	align-items: center;
+}
+
+button:hover {
+	box-shadow: 0 0 0 2px white, 0 0 0 4px #000066;
 }
