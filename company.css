@@ -191,6 +191,7 @@ h3 {
 }
 
 .text {
+	width: 1240px;
 	padding-top: 20px;
 	padding-bottom: 20px;
 	font-family:'Times New Roman', sans-serif;
