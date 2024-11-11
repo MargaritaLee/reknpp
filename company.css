@@ -210,7 +210,7 @@ img {
 }
 
 .gallery {
-	display: inline-block;
+  display: inline-block;
   position: relative;
   width: 620px;
   margin-left: 0px;
@@ -260,9 +260,9 @@ img {
 }
 
 .gallery-2 {
+  display: inline-block;
   position: relative;
   width: 620px;
-  display: inline-block;
 }
 
 .gallery__box-2 {
